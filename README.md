@@ -1,3 +1,8 @@
+# v3.0
+Sukurtas programos diegimo failas - setup.exe
+
+
+
 # Naudojimosi instrukcija
    Paleidus programą langelyje jums bus surašyti visi galimi pasirinkimai:
    
