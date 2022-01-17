@@ -8,6 +8,6 @@ Sukurtas programos diegimo failas - setup.exe
    
    • Įvesti studentų duomenis ranka ( Taip pat turėsite galimybę sugeneruoti pažymius automatiškai).
    
-   • Įkelti duomenis iš failo ir išsaugoti rezultatus naujame faile kursiokai.txt.
+   • Įkelti duomenis iš failo.
    
    • Sugeneruoti automatiškai studentų failą(galėsite įvesti studentų skaičių) bei sugrupuoti juos sukūriant du naujus failus pagal tai, ar galutinis pažymys yra didesnis ar mažesnis už 5.
