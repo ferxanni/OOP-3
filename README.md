@@ -6,7 +6,7 @@ Sukurtas programos diegimo failas - setup.exe
 # Naudojimosi instrukcija
    Paleidus programą langelyje jums bus surašyti visi galimi pasirinkimai:
    
-   • Įvesti studentų duomenis ranka ( Taip pat turėsite galimybę sugeneruoti pažymius automatiškai).
+   • Įvesti studentų duomenis ranka.
    
    • Įkelti duomenis iš failo.
    
